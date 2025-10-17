@@ -4,11 +4,11 @@ function Navigation() {
     return (
         <nav>
             <ul className="flex gap-2 justify-items-end">
-                <li>
+                {/* <li>
                     <Link href="/about">O meni</Link>
-                </li>
+                </li> */}
                 <li>
-                    <Link href="/projects">Projekti</Link>
+                    <Link className="hover:underline" href="/projects">Projekti</Link>
                 </li>
                 {/* <li>
                     <Link href="/technologies">Tehnologije</Link>
