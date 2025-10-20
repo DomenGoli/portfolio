@@ -6,7 +6,7 @@ function Page() {
             <div className="felx p-5">
                 <p className="text-4xl">Moji projekti</p>
             </div>
-            <div className="flex justify-center max-w-4xl">
+            <div className="flex justify-center max-w-4xl mb-5">
                 <ProjectList />
             </div>
         </div>
