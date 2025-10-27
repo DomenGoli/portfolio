@@ -2,8 +2,8 @@ import Link from "next/link";
 
 export default function Home() {
     return (
-        <div className="flex font-sans h-full w-full justify-center">
-            <main className="flex flex-col items-center mt-20">
+        <div className="flex font-sans h-full w-full justify-center items-center">
+            <main className="flex flex-col items-center">
                 <p className="lg:text-4xl text-2xl">Živjo, jaz sem</p>
                 <div className="flex flex-col items-center gap-8">
                     <p className="lg:text-9xl text-7xl">Domen.</p>
