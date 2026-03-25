@@ -26,7 +26,7 @@ function ProjectCard({ project }: { project: ProjectType }) {
             </div>
             <div className="grid h-full grid-rows-[1fr_1fr_auto] mt-2 gap-5 text-sm leading-6">
                 <div className="flex flex-col gap-1">
-                    <p className="text-2xl font-bold">{title}</p>
+                    <p className="text-2xl font-bold text-center">{title}</p>
                     <p>{description}</p>
                 </div>
                 <div>

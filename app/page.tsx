@@ -12,13 +12,13 @@ export default function Home() {
                     </p>
                     <div className="flex flex-col items-center">
                         <p className="lg:text-2xl text-[1rem] px-6">
-                            Sem razvijalec spletnih aplikacij s fokusom na
+                            Sem razvijalec spletnih aplikacij v
                             JavaScript/TypeScript in React.js.
                         </p>
                         <div className="flex justify-center pt-4">
                             <Link href="/projects">
                                 <button className="border rounded-[10px] px-3 bg-stone-200 cursor-pointer hover:bg-stone-50 duration-150">
-                                    <p>Nekaj izmed mojih projektov</p>
+                                    <p>Nekaj mojih projektov</p>
                                 </button>
                             </Link>
                         </div>
