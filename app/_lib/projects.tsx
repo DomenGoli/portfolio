@@ -31,7 +31,7 @@ export const projects = [
     {
         title: "imGravel",
         image: imgravelImage,
-        description: "Semi-privatna aplikacija za deljenje slik",
+        description: "Mobilna web aplikacija za deljenje slik",
         tech: "TypeScript, Next.js, React.js, ReduxRTK, react-query, Auth.js, Supabase in Tailwind.",
         url: "https://imgravel.netlify.app/",
         repo: "https://github.com/DomenGoli/ravel.git"
