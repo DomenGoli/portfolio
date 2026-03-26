@@ -1,6 +1,6 @@
-import scoutImage from "@/public/scout-workdays.png"
-import capitalsImage from "@/public/capitals.png";
-import lockinImage from "@/public/lockin.png"
+import scoutImage from "@/public/delovnikApp.png"
+import capitalsImage from "@/public/capitalsApp.png";
+import lockinImage from "@/public/lockInApp.png"
 import imgravelImage from "@/public/imgravel.png"
 
 export const projects = [
